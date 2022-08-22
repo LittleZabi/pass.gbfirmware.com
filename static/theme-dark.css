@@ -1,0 +1,50 @@
+::root{
+    --bgColor: #131335;
+    --bgReflex:     white;
+}
+body{
+    background: #030308 !important;
+    color: #fff !important;
+}
+header{
+    background: #131335 !important;
+    
+}
+.container .left, .container .right{
+    background: #131335 !important;
+}
+.container .form-view input{
+    border-color: #3b3b41 !important;
+    color: white !important;
+    background: #030308 !important;
+}
+.container .left .pass{
+    color: #bebebe;
+    padding: 10px 2px;
+}
+.container .right textarea{
+    border-bottom-color: #3f3f3f !important;
+    min-height: 42px;
+    background: #030308;
+    color: white !important;
+}
+.container .left section{
+    padding: 5px 16px !important;
+    border-radius: 10px 10px 0 0 !important;
+    border-color: #232351 !important;
+}
+.container form .result .title{
+    border-bottom-color: #181857 !important;
+    color: #fff !important;
+}
+.container form .result .title:hover{
+    color: #babaff !important;
+    border-bottom-color: #774fff;
+}
+.container .right form .result{
+    background: #080808 !important;
+    
+}
+.container .left section:hover{
+    background: #09091a !important;
+}
